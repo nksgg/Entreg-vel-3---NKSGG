@@ -31,7 +31,7 @@ app.listen(port, function(erro) { // Cria a aplicação na porta 3000
 **Não esqueça de salvar o arquivo.**
 
 6. Teste a execução do servidor abrindo novamente o terminal e navegue até o diretório do seu projeto! Feito isso execute o comando a seguir para abrir o novo site criado. `node app.js` e abra o seu navegador na url `http://localhost:3000`.
-7. Após a verificação feche seu servidor utiliznado `Ctrl + C`.
+7. Após a verificação feche seu servidor utilizando `Ctrl + C`.
 
 Agora você tem um projeto básico configurado com o Express! No próximo passo, vamos implementar uma biblioteca para tornar mais claro o entendimento dos dados enviados via POST.
 
@@ -129,5 +129,7 @@ Com a rota POST implementada e explicada detalhadamente, agora você pode testar
 
 ## 4º Passo: Testar a Rota POST via Postman
 Agora, vamos descobrir quem é o Postman. Veja o vídeo a seguir e siga os passos para executar o seu teste.
+
+`https://youtu.be/LlfulCwrM_c`
 
 Terminou? Repita os passos para outras três operações matemáticas, boa sorte ;-).
