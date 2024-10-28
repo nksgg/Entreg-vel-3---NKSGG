@@ -128,7 +128,7 @@ app.post('/soma', function (req, res) {
 Com a rota POST implementada e explicada detalhadamente, agora você pode testar essa funcionalidade usando o Postman. Vamos para o próximo passo!
 
 ## 4º Passo: Testar a Rota POST via Postman
-Agora, vamos descobrir quem é o Postman. Veja o vídeo a seguir e siga os passos para executar o seu teste.
+Agora, vamos descobrir oque é o Postman. Veja o vídeo a seguir e siga os passos para executar o seu teste.
 
 `https://youtu.be/LlfulCwrM_c`
 
